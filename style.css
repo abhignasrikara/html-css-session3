@@ -78,6 +78,7 @@
     display: inline;
     border: 2px solid violet;
     margin: 10px 10px 10px 10px;
+    padding-top: 55px;
 }
 
 .qwe{
@@ -92,7 +93,7 @@
     display: inline;
     border: 2px solid darkcyan;
     margin: 10px 10px 10px 10px;
-    padding: 45px 20px;
+    padding: 250px 20px 40px;
 }
 
 .zxy{
